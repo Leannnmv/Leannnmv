@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Lean! 👋
+### 💻 Computer Science Student | 🌱 Exploring Python and Haskell | 🚀 Open Source Enthusiast
+
 
 <!--
 **Leannnmv/Leannnmv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
