@@ -31,7 +31,7 @@ I'm a Computer Science student with a passion for problem-solving and exploring 
 ---
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Leannnmv&show_icons=true&theme=radical)
 
 ---
 
